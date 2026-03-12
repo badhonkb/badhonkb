@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 CSE Graduate
+* 🎓 CSE Undergraduate Final Semester Student
 * 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 * 📊 Working with **Data Science & Data Mining**
 * ⚡ Building **AI APIs using FastAPI & LangChain**
@@ -73,17 +73,14 @@ Machine Learning • Data Science • Data Mining • Pandas • NumPy • LangC
 
 ---
 
-## 🧠 Research & Publications
 
-📄 **Liver Disease Prediction using Machine Learning Classification Techniques**
-
-Conference: IEEE International Conference on Communication Systems and Network Technologies (CSNT)
 
 Research Interests:
 
 * Machine Learning
+* Deep Learning
 * Data Mining
-* Healthcare AI
+* Agentic AI
 * Predictive Modeling
 
 ---
@@ -98,9 +95,9 @@ Research Interests:
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 
-💼 LinkedIn: your-linkedin-link
+
+💼 LinkedIn: https://www.linkedin.com/in/badhonkb/
 
 ---
 
