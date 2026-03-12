@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Badhon Biswas</h1>
+<h1 align="center">Hi 👋, I'm Badhon Kumar Biswas</h1>
 <h3 align="center">💻 CSE Graduate | 🤖 Data Science & Machine Learning Enthusiast | 🚀 AI Developer</h3>
 
 <p align="center">
